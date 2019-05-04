@@ -1,0 +1,56 @@
+C:\Users\kacper_sw\Desktop\aplikacja od żywienia\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\kacper_sw\Desktop\aplikacja od żywienia\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\kacper_sw\Desktop\aplikacja od żywienia\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\kacper_sw\Desktop\aplikacja od żywienia\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\kacper_sw\Desktop\aplikacja od żywienia\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\kacper_sw\Desktop\aplikacja od żywienia\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\kacper_sw\Desktop\aplikacja od żywienia\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\kacper_sw\Desktop\aplikacja od żywienia\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\kacper_sw\Desktop\aplikacja od żywienia\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\kacper_sw\Desktop\aplikacja od żywienia\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+E:\app od żywienia\aplikacja od żywienia\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+E:\app od żywienia\aplikacja od żywienia\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+E:\app od żywienia\aplikacja od żywienia\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+E:\app od żywienia\aplikacja od żywienia\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+E:\app od żywienia\aplikacja od żywienia\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+E:\app od żywienia\aplikacja od żywienia\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+E:\app od żywienia\aplikacja od żywienia\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+E:\app od żywienia\aplikacja od żywienia\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+E:\app od żywienia\aplikacja od żywienia\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\app od żywienia\aplikacja od żywienia\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+I:\app od żywienia\aplikacja od żywienia\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+I:\app od żywienia\aplikacja od żywienia\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+I:\app od żywienia\aplikacja od żywienia\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+I:\app od żywienia\aplikacja od żywienia\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+I:\app od żywienia\aplikacja od żywienia\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+I:\app od żywienia\aplikacja od żywienia\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+I:\app od żywienia\aplikacja od żywienia\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+I:\app od żywienia\aplikacja od żywienia\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+I:\app od żywienia\aplikacja od żywienia\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+I:\app od żywienia\aplikacja od żywienia\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\kacper_sw\Desktop\app od żywienia\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\kacper_sw\Desktop\app od żywienia\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\kacper_sw\Desktop\app od żywienia\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\kacper_sw\Desktop\app od żywienia\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\kacper_sw\Desktop\app od żywienia\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\kacper_sw\Desktop\app od żywienia\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\kacper_sw\Desktop\app od żywienia\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\kacper_sw\Desktop\app od żywienia\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\kacper_sw\Desktop\app od żywienia\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\kacper_sw\Desktop\app od żywienia\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\kacper_sw\Desktop\app od żywienia\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+C:\Users\kacper_sw\Desktop\app od żywienia\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form4.resources
+C:\Users\kacper_sw\Desktop\app od żywienia\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form5.resources
+C:\Users\kacper_sw\Desktop\SPRAWOZDANIA\Tworzenie aplikacji bazodanowych\app od żywienia\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\kacper_sw\Desktop\SPRAWOZDANIA\Tworzenie aplikacji bazodanowych\app od żywienia\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\kacper_sw\Desktop\SPRAWOZDANIA\Tworzenie aplikacji bazodanowych\app od żywienia\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\kacper_sw\Desktop\SPRAWOZDANIA\Tworzenie aplikacji bazodanowych\app od żywienia\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\kacper_sw\Desktop\SPRAWOZDANIA\Tworzenie aplikacji bazodanowych\app od żywienia\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\kacper_sw\Desktop\SPRAWOZDANIA\Tworzenie aplikacji bazodanowych\app od żywienia\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\kacper_sw\Desktop\SPRAWOZDANIA\Tworzenie aplikacji bazodanowych\app od żywienia\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\kacper_sw\Desktop\SPRAWOZDANIA\Tworzenie aplikacji bazodanowych\app od żywienia\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\kacper_sw\Desktop\SPRAWOZDANIA\Tworzenie aplikacji bazodanowych\app od żywienia\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+C:\Users\kacper_sw\Desktop\SPRAWOZDANIA\Tworzenie aplikacji bazodanowych\app od żywienia\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form4.resources
+C:\Users\kacper_sw\Desktop\SPRAWOZDANIA\Tworzenie aplikacji bazodanowych\app od żywienia\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form5.resources
+C:\Users\kacper_sw\Desktop\SPRAWOZDANIA\Tworzenie aplikacji bazodanowych\app od żywienia\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\kacper_sw\Desktop\SPRAWOZDANIA\Tworzenie aplikacji bazodanowych\app od żywienia\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
